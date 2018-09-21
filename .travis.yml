@@ -2,7 +2,7 @@
 #
 # Use of this source code is governed by the Apache License, Version 2.0.
 # See the LICENSE file for details.
-
+os: linux-ppc64le
 language: node_js
 sudo: required
 
